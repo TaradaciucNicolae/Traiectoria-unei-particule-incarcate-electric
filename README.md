@@ -1,6 +1,7 @@
-Studiul mişcării unei particule încărcate electric într-un câmp electric cu variaţie sinusoidală şi de direcţie fixă
+Studiul mişcării unei particule încărcate electric într-un câmp electric cu variaţie sinusoidală şi de direcţie fixă.
 
-Program utilizat: GeoGebra;
+Program utilizat: GeoGebra.
+
 Limbaje de programare utilizate : GGBScript și Javascript.
 
 
