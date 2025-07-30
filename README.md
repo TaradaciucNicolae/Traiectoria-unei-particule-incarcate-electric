@@ -2,8 +2,6 @@
 
 Program utilizat: GeoGebra.
 
-Limbaje de programare utilizate : GGBScript și Javascript.
-
 
 ![image](https://github.com/user-attachments/assets/d7d743d6-5d55-475b-a7cb-5ad42f412161)
 
