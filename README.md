@@ -1,32 +1,32 @@
-# Traiectoria unei particule încărcate electric
+# Trajectory of an Electrically Charged Particle
 
-Simulare realizată în **GeoGebra** pentru studiul mișcării unei particule încărcate electric într-un câmp electric cu variație sinusoidală și direcție fixă.
+Simulation created in **GeoGebra** for studying the motion of an electrically charged particle in an electric field with sinusoidal variation and fixed direction.
 
-Proiectul include o versiune interactivă în browser și fișierul GeoGebra editabil.
+The project includes an interactive browser version and the editable GeoGebra file.
 
-## Fișiere
+## Files
 
-- `Traiectoria unei particule încărcate electric.html` - simularea exportată pentru browser.
-- `Traiectoria unei particule încărcate electric.ggb` - fișierul GeoGebra editabil.
+- `Traiectoria unei particule încărcate electric.html` - the exported browser simulation.
+- `Traiectoria unei particule încărcate electric.ggb` - the editable GeoGebra file.
 
-## Exemple de traiectorii
+## Trajectory Examples
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/d7d743d6-5d55-475b-a7cb-5ad42f412161" width="100%" alt="Exemplu de traiectorie 1" />
+      <img src="https://github.com/user-attachments/assets/d7d743d6-5d55-475b-a7cb-5ad42f412161" width="100%" alt="Trajectory example 1" />
       <br />
-      <sub>Exemplu de traiectorie 1</sub>
+      <sub>Trajectory example 1</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/e2e439b5-80ac-4b05-b624-f04afea31c4b" width="100%" alt="Exemplu de traiectorie 2" />
+      <img src="https://github.com/user-attachments/assets/e2e439b5-80ac-4b05-b624-f04afea31c4b" width="100%" alt="Trajectory example 2" />
       <br />
-      <sub>Exemplu de traiectorie 2</sub>
+      <sub>Trajectory example 2</sub>
     </td>
   </tr>
 </table>
 
-## Tehnologie folosită
+## Technology Used
 
 - GeoGebra
 - HTML export
